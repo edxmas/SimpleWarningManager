@@ -1,0 +1,9 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+
+GET        /assets/*file        controllers.Assets.at(path="/public", file)
+
+# Home page
+GET        /                    controllers.ApplicationController.index()
+GET        /read                controllers.ApplicationController.read()
+POST       /save                controllers.ApplicationController.save()

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - linuxday2015@localhost" uuid="ba97ec77-243d-44a2-bf49-73a405ae0b03">
+      <secret-storage>master_key</secret-storage>
+      <user-name>linuxday</user-name>
+      <schema-pattern>linuxday2015.pg_catalog linuxday2015.public</schema-pattern>
+      <default-schemas>linuxday2015.pg_catalog linuxday2015.public</default-schemas>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+-- create database linuxday2015;
+-- create user linuxday with password 'l1nuxd@y2015';<
+-- grant all privileges on database linuxday2015 to linuxday;
+-- Enable PostGIS (includes raster)
+-- CREATE EXTENSION postgis;
+-- -- Enable Topology
+-- CREATE EXTENSION postgis_topology;

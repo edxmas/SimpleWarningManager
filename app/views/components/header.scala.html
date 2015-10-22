@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Warning Manager - Linux Day 2015</title>
+    <meta name="description" content="Il gestore delle segnalazioni si occupa di raccogliere segnalazioni fatte dai cittadini
+    e motrarle su una mappa. Il dimostratore è stato realizzato per mettere in evidenzia le potenzialità di software open
+    per la gestione di informazioni geospaziali.">
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Eduard Natale">
+
+    <!-- Core CSS -->
+    <link rel="stylesheet" media="screen" href="@routes.Assets.at("stylesheets/bootstrap.min.css")">
+    <link rel="stylesheet" media="screen" href="@routes.Assets.at("leaflet/leaflet.css")">
+
+      <style>
+          .navbar {
+          margin-bottom: 20px;
+          }
+
+          #map {
+              height: 100%;
+              width: 100%;
+              position: absolute;
+              top: 0;
+              bottom: 0;
+          }
+          .leaflet-container {
+            cursor: crosshair;
+          }
+          #logo {
+              position: absolute;
+              top: 10px;
+              left: 10px;
+              width: 80px;
+          }
+      </style>
+  </head>
+  <body>
+

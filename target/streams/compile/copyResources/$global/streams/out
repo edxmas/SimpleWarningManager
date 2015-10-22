@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/eduardnatale/Sites/LinuxDay2015/conf/application.conf,/Users/eduardnatale/Sites/LinuxDay2015/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/eduardnatale/Sites/LinuxDay2015/conf/META-INF,/Users/eduardnatale/Sites/LinuxDay2015/target/scala-2.11/classes/META-INF)[0m
+[0m[[0mdebug[0m] [0m	(/Users/eduardnatale/Sites/LinuxDay2015/conf/play.plugins,/Users/eduardnatale/Sites/LinuxDay2015/target/scala-2.11/classes/play.plugins)[0m
+[0m[[0mdebug[0m] [0m	(/Users/eduardnatale/Sites/LinuxDay2015/conf/routes,/Users/eduardnatale/Sites/LinuxDay2015/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/Users/eduardnatale/Sites/LinuxDay2015/conf/META-INF/import.sql,/Users/eduardnatale/Sites/LinuxDay2015/target/scala-2.11/classes/META-INF/import.sql)[0m
+[0m[[0mdebug[0m] [0m	(/Users/eduardnatale/Sites/LinuxDay2015/conf/META-INF/persistence.xml,/Users/eduardnatale/Sites/LinuxDay2015/target/scala-2.11/classes/META-INF/persistence.xml)[0m
